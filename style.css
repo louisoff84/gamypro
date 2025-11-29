@@ -1,0 +1,13 @@
+/* style.css */
+
+body {
+    /* Élimine les marges par défaut du navigateur */
+    margin: 0;
+    /* Évite que des barres de défilement n'apparaissent */
+    overflow: hidden;
+}
+
+canvas {
+    /* S'assure que le canvas est affiché correctement en tant qu'élément de bloc */
+    display: block;
+}
